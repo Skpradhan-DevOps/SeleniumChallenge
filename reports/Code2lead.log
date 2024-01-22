@@ -1,0 +1,24 @@
+11/02/23 07:53:17 PM Saturday - WebDriverClass - INFO : Chrome Driver is initializing
+11/02/23 07:53:29 PM Saturday - BaseClass - INFO : Web Page Launched with URL : https://petdiseasealerts.org/forecast-map#/
+11/02/23 08:06:25 PM Saturday - WebDriverClass - INFO : Chrome Driver is initializing
+11/02/23 08:06:36 PM Saturday - BaseClass - INFO : Web Page Launched with URL : https://petdiseasealerts.org/forecast-map#/
+11/02/23 08:07:02 PM Saturday - BaseClass - ERROR : WebElement not found with locator value Florida using locatorType name
+11/02/23 08:07:02 PM Saturday - BaseClass - ERROR : Unable to Click on WebElement with locator value Florida using locatorType name
+11/02/23 08:09:03 PM Saturday - WebDriverClass - INFO : Chrome Driver is initializing
+11/02/23 08:09:11 PM Saturday - BaseClass - INFO : Web Page Launched with URL : https://petdiseasealerts.org/forecast-map#/
+11/02/23 08:09:37 PM Saturday - BaseClass - ERROR : WebElement not found with locator value California using locatorType name
+11/02/23 08:09:37 PM Saturday - BaseClass - ERROR : Unable to Click on WebElement with locator value California using locatorType name
+11/02/23 09:24:58 PM Saturday - WebDriverClass - INFO : Chrome Driver is initializing
+11/02/23 09:25:12 PM Saturday - BaseClass - INFO : Web Page Launched with URL : https://petdiseasealerts.org/forecast-map#/
+11/02/23 09:25:13 PM Saturday - BaseClass - INFO : WebElement found with locator value //iframe[contains(@id,'map-instance')] using locatorType xpath
+11/02/23 09:25:13 PM Saturday - BaseClass - INFO : WebElement found with locator value California using locatorType name
+11/02/23 09:25:13 PM Saturday - BaseClass - INFO : Clicked on WebElement with locator value California using locatorType name
+11/02/23 09:29:12 PM Saturday - WebDriverClass - INFO : Chrome Driver is initializing
+11/02/23 09:29:23 PM Saturday - BaseClass - INFO : Web Page Launched with URL : https://petdiseasealerts.org/forecast-map#/
+11/02/23 09:29:23 PM Saturday - BaseClass - INFO : WebElement found with locator value //iframe[contains(@id,'map-instance')] using locatorType xpath
+11/02/23 09:29:23 PM Saturday - BaseClass - INFO : WebElement found with locator value Florida using locatorType name
+11/02/23 09:29:24 PM Saturday - BaseClass - ERROR : Unable to Click on WebElement with locator value Florida using locatorType name
+11/02/23 09:48:11 PM Saturday - WebDriverClass - INFO : Chrome Driver is initializing
+11/02/23 09:49:58 PM Saturday - BaseClass - INFO : Web Page Launched with URL : https://petdiseasealerts.org/forecast-map#/
+11/02/23 09:49:58 PM Saturday - BaseClass - INFO : WebElement found with locator value //iframe[contains(@id,'map-instance')] using locatorType xpath
+11/02/23 09:50:04 PM Saturday - BaseClass - INFO : WebElement found with locator value Florida using locatorType name
